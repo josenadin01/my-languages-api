@@ -24,8 +24,15 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 A aplicação tem como princípio criar uma API REST que guarda/manipula diferentes linguagens de programação.
 
+Estas são as requsições possíveis:
+![image](https://user-images.githubusercontent.com/93929513/181665220-da540bb9-e81d-43e0-9dae-8bc3d03b84c2.png)
+
 Para rodar o projeto na sua máquina basta: 
 
-- Rodar o arquivo LanguagesApiApplication.java
-- Após isso o TomCat irá subir o servidor
+- Acessar a aplicação que está no heroku: https://my-languages-api.herokuapp.com/languages
 - Pronto, agora é só enviar as requisições que preferir com seus parâmetros!
+
+Exemplo de uma requisição utilizando o Postman:
+![image](https://user-images.githubusercontent.com/93929513/181665782-b75ee08b-3f3f-4e39-b9cf-f5ad9a186bd6.png)
+
+
