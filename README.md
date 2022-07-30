@@ -33,10 +33,11 @@ Para rodar o projeto na sua máquina basta:
 - E enviar as requisições que preferir com seus parâmetros!
 
 Estas são as requisições possíveis:
-![image](https://user-images.githubusercontent.com/93929513/181665220-da540bb9-e81d-43e0-9dae-8bc3d03b84c2.png)
+
+![image](https://user-images.githubusercontent.com/93929513/181917185-03f68412-37fd-4818-a226-38f9e27bd58d.png)
 
 
 Exemplo de uma requisição utilizando o Postman:
-![image](https://user-images.githubusercontent.com/93929513/181665782-b75ee08b-3f3f-4e39-b9cf-f5ad9a186bd6.png)
+![image](https://user-images.githubusercontent.com/93929513/181917258-d27ad607-3435-4967-b994-404a025079fd.png)
 
 
