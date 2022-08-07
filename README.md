@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 <br>
 
 
-Para rodar o projeto na sua máquina basta: 
+Para testar o projeto basta: 
 
 - Acessar a aplicação que está no heroku: https://my-languages-api.herokuapp.com/languages
 - E enviar as requisições que preferir com seus parâmetros!
